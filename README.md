@@ -1,2 +1,2 @@
-(interaction-svg-demo.herokuapp.com)[interaction-svg-demo.herokuapp.com]
-Small interactive SVG animation. 
+Small interactive SVG animation experiment. Created Using SNAP SVG.
+View at interaction-svg-demo.herokuapp.com
